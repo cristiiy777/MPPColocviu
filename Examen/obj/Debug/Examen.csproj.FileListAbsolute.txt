@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\GitHub\Examen\Examen\bin\Examen.dll
+C:\Users\Lenovo\Documents\GitHub\Examen\Examen\bin\Examen.pdb
+C:\Users\Lenovo\Documents\GitHub\Examen\Examen\obj\Debug\Examen.dll
+C:\Users\Lenovo\Documents\GitHub\Examen\Examen\obj\Debug\Examen.pdb
